@@ -1,7 +1,7 @@
 +++
 headless = true
 name = "Aiman Nazaal"
-image = ""
+image = "/img/mypic.jpeg"
 email = "aiman.nazaal@powercoders.org"
 +++
 
