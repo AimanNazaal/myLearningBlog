@@ -1,8 +1,8 @@
 +++
 headless = true
-icon = ""
+icon = "/img/twitter-new.png"
 logo = "/img/fb-new-png.png"
-image = ""
+image = "/img/cityskyline.jpg"
 color = ""
 +++
 
