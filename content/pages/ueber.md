@@ -7,8 +7,11 @@ description = "I am undertaking a 3-month coding bootcamp @powercoders to gain s
 ![](/img/mypic.jpeg)
 
 ## Aiman Nazaal
-https://www.linkedin.com/in/aimannazaal/
 
 I am undertaking a 3-month coding bootcamp @powercoders to gain significant coding skills to relaunch my career and contribute to digital transformation.
 
-I write articles and produce videos about blockchain technology, digital currencies, and digital transformation in Arabic and English languages. 
+In my free time, I write articles and produce videos about blockchain technology, digital currencies, and digital transformation in Arabic and English languages. 
+
+I will be very happy to welcome your visit to my LinkedIn profile to get more information about my professional background. 
+
+https://www.linkedin.com/in/aimannazaal/
