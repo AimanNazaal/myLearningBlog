@@ -1,8 +1,8 @@
 +++
 headless = true
 title = "Aiman Nazaal"
-description = "Digital Transformation Via Coding "
-footerLeft = "Powered by ❤️and *strong will* "
+description = "Blog<Code>"
+footerLeft = "Powered by ❤️and *will*"
 footerRight = "Lernblog.ch"
 +++
 
