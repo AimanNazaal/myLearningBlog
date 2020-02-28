@@ -6,8 +6,9 @@ description = "I am undertaking a 3-month coding bootcamp @powercoders to gain s
 +++
 ![](/img/mypic.jpeg)
 
-## Vorname Nachname
+## Aiman Nazaal
+aiman.nazaal@powercoders.org
 
-info@lernblog.ch
+I am undertaking a 3-month coding bootcamp @powercoders to gain significant coding skills to relaunch my career and contribute to digital transformation.
 
-Beschreibung, wer ich bin...
+I write articles and produce videos about blockchain technology, digital currencies, and digital transformation in Arabic and English languages. 
