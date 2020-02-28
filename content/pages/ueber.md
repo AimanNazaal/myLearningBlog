@@ -1,10 +1,10 @@
 +++
-title = "Über mich"
+title = "About Me"
 draft = false
-description = "Seite über mich"
-image = ""
+image = "/img/mypic.jpeg"
+description = "I am undertaking a 3-month coding bootcamp @powercoders to gain significant coding skills to relaunch my career and contribute to digital transformation."
 +++
-![](/img/default-author.png)
+![](/img/mypic.jpeg)
 
 ## Vorname Nachname
 
