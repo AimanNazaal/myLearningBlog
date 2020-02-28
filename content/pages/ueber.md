@@ -7,7 +7,7 @@ description = "I am undertaking a 3-month coding bootcamp @powercoders to gain s
 ![](/img/mypic.jpeg)
 
 ## Aiman Nazaal
-aiman.nazaal@powercoders.org
+https://www.linkedin.com/in/aimannazaal/
 
 I am undertaking a 3-month coding bootcamp @powercoders to gain significant coding skills to relaunch my career and contribute to digital transformation.
 
