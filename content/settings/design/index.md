@@ -1,7 +1,7 @@
 +++
 headless = true
 icon = ""
-logo = ""
+logo = "/img/fb-new-png.png"
 image = ""
 color = ""
 +++
