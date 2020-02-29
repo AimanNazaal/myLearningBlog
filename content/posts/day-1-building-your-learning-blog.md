@@ -5,7 +5,7 @@ draft = false
 pinned = true
 tags = [""]
 image = "/img/aditya-chinchure-wmkpvpqlzsc-unsplash.jpg"
-description = "learning blog, learning log, learning journal, activity journal and log"
+description = ""
 footnotes = "Computer image by Aditya-Chinchure"
 +++
 ##### Introduction
