@@ -16,4 +16,4 @@ However, I have continued working on the site till 29.02.2020. I can declare it 
 
 Here is my first actual learning log for this blog:
 
-![Learning Log - Building Learning Blog](/img/learning_log.png "Learning Log")
+![Learning Log - Building Learning Blog](/img/day-1_building_learning_blog.png "Learning Log")
