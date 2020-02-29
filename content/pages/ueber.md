@@ -2,7 +2,7 @@
 title = "About Me"
 draft = false
 image = "/img/aiman.jpg"
-description = "I am undertaking a 3-month coding bootcamp at Powercoders to gain significant coding skills to relaunch my career and contribute to digital transformation."
+description = "coding bootcamp, Powercoders Zurich, coding skills, web development, career, digital transformation."
 +++
 ![](/img/aiman.jpg)
 
@@ -18,4 +18,5 @@ I will be very happy to welcome your visit to my LinkedIn profile to get more in
 
 https://www.linkedin.com/in/aimannazaal/
 
-Also feel free to contact me on aiman.nazaal@powercoders.org 
+Also feel free to contact me on 
+aiman.nazaal@powercoders.org 
