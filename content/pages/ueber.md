@@ -18,6 +18,7 @@ I will be very happy to welcome your visit to my LinkedIn profile to get more in
                                                                                
   👉🏼https://www.linkedin.com/in/aimannazaal/
 
-Also feel free to contact me via: 
+Also feel free to contact me via:
+ 
  👉🏼aiman.nazaal@powercoders.org
 
