@@ -1,5 +1,5 @@
 +++
-title = "Preparing My CV"
+title = "Day 2 - Preparing My CV"
 date = "2020-03-02"
 draft = false
 pinned = true
