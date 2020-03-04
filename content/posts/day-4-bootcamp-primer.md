@@ -15,8 +15,8 @@ Below is my learning log.
 
 This is the CIA task
 
-![](/img/screenshot-2020-03-04-at-00.53.13.png)
+![]()
 
 The image below is the html page I designed for the CSS inline styling.  
 
-![](/img/screenshot-2020-03-04-at-00.55.31.png)
+![]()
