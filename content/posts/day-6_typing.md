@@ -1,5 +1,5 @@
 +++
-title = "Day 6_Typing"
+title = "Day 6 - Typing"
 date = "2020-03-06"
 draft = false
 pinned = true
