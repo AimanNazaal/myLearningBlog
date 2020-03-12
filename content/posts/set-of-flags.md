@@ -1,5 +1,5 @@
 +++
-title = "Set of Flags"
+title = "Day 10 - Set of Flags"
 date = "2020-03-11"
 draft = false
 pinned = true
