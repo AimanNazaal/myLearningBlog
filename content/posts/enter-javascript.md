@@ -1,5 +1,5 @@
 +++
-title = "Enter Javascript! "
+title = "Day 12 - Enter Javascript! "
 date = "2020-03-15"
 draft = false
 pinned = true
